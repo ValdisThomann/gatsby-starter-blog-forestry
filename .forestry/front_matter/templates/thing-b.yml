@@ -1,4 +1,14 @@
 ---
 label: Thing B
 hide_body: true
-fields: []
+fields:
+- name: how_many_
+  type: number
+  label: How many?
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
