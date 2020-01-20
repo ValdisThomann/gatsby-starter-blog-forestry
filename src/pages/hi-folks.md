@@ -1,7 +1,11 @@
 ---
 title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
+date: 2015-05-28T22:40:32.169Z
+
 ---
+Ok, this is actually pretty cool.
+
+![](/uploads/excitement.jpg)
 
 Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -50,11 +54,11 @@ Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+1. So baboon this
+2. Mounted militant weasel gregariously admonishingly straightly hey
+3. Dear foresaw hungry and much some overhung
+4. Rash opossum less because less some amid besides yikes jeepers frenetic
+   impassive fruitlessly shut
 
 When she reached the first hills of the Italic Mountains, she had a last view
 back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
