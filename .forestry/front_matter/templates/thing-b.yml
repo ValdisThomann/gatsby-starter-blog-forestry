@@ -12,3 +12,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- 2.md
